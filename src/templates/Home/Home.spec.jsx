@@ -21,7 +21,7 @@ const handlers = [
           id: 2,
           title: 'title2',
           body: 'body2',
-          url: 'img1.jpg',
+          url: 'img2.jpg',
         },
         {
           userId: 3,
